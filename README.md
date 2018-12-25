@@ -1,2 +1,0 @@
-# ReactRandomQuoteGenerator
-Created with CodeSandbox
