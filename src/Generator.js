@@ -112,7 +112,7 @@ class QuoteGenerator extends React.Component {
                 id="tweet-quote"
                 onClick={this.changeHref}
               >
-                <i class="fab fa-twitter" />
+                <i className="fab fa-twitter" />
               </a>
             </div>
           </div>
