@@ -1,7 +1,7 @@
 {
   "name": "random-quote-generator",
   "version": "1.0.0",
-  "description": "A quote generator build using React-Redux and the use of forsimatic API",
+  "description": "A quote generator build using React and the use of forsimatic API",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
